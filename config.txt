@@ -1,0 +1,5 @@
+# 不要移动下面的配置条目的前后顺序！
+# domain
+# hostname
+# accessKeyId
+# accessKeySecret
